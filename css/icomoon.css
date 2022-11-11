@@ -1,0 +1,68 @@
+[class^="icon-"],
+[class*=" icon-"] {
+    font-family: 'icomoon' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-globe2:before {
+    content: "\e9b0";
+}
+
+.icon-location-pin:before {
+    content: "\e9d2";
+}
+
+.icon-mail:before {
+    content: "\e9db";
+}
+
+.icon-phone2:before {
+    content: "\e9f5";
+}
+
+.icon-facebook:before {
+    content: "\e05d";
+}
+
+.icon-facebook-with-circle:before {
+    content: "\ea67";
+}
+
+.icon-facebook2:before {
+    content: "\ea68";
+}
+
+.icon-instagram-with-circle:before {
+    content: "\ea6f";
+}
+
+.icon-instagram:before {
+    content: "\ea70";
+}
+
+.icon-twitter-with-circle:before {
+    content: "\ea7c";
+}
+
+.icon-twitter2:before {
+    content: "\ea7d";
+}
+
+.icon-twitter:before {
+    content: "\e05e";
+}
+
+.icon-chevron-left:before {
+    content: "\e923";
+}
+
+.icon-chevron-right:before {
+    content: "\e924";
+}
